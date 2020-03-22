@@ -1,0 +1,8 @@
+include 'core-api'
+include 'core-transform'
+include 'testlambdas-api'
+include 'testlambdas-plugin'
+include 'testsql-api'
+include 'testsql-plugin'
+include 'dev-classfiles'
+include 'dev-runnable'

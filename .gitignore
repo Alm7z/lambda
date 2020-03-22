@@ -1,0 +1,11 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+.externalNativeBuild
+/.idea/
+
+/build
+/*/build
+
+/dev-runnable/src/main/java/asm/com/almazsh/lambda/dev/classfiles
